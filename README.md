@@ -1,2 +1,2 @@
-# cgntr
+# cogentera docs
 testing repository
